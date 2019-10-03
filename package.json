@@ -1,0 +1,29 @@
+{
+  "name": "gomorrah",
+  "version": "0.1.0",
+  "description": "Blops tool for Eve Online that watches systems near your staging for NPC kills",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AquilaSagitta/Gomorrah.git"
+  },
+  "keywords": [
+    "Eve",
+    "Online",
+    "Black",
+    "Ops"
+  ],
+  "author": "Chris Blahut",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/AquilaSagitta/Gomorrah/issues"
+  },
+  "homepage": "https://github.com/AquilaSagitta/Gomorrah#readme",
+  "dependencies": {
+    "@hapi/hapi": "^18.4.0"
+  }
+}
